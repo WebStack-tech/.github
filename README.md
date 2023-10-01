@@ -1,6 +1,6 @@
 # Welcome to the WebStack Organization
 
-![WebStack Logo](webstack-logo.png)
+![WebStack Logo](logo.png)
 
 WebStack is an organization dedicated to web development and open-source projects. We strive to create innovative web solutions and contribute to the web development community. 
 
