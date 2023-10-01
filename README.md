@@ -11,9 +11,6 @@ WebStack is an organization dedicated to web development and open-source project
 - **Vision:** To empower developers with tools, resources, and knowledge to create outstanding web experiences.
 
 
-
-### ...
-
 ## Get Involved
 
 We welcome contributors and collaborators! If you're interested in joining our organization or contributing to our projects, please get in touch with us:
